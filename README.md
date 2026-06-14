@@ -1,5 +1,25 @@
 # Python General Functions
-Contains general functions that I have created in Python
+Contains general functions that I have created in Python. I will also include my current Spyder shortcuts here.
+
+
+## Current Shortcuts:
+### Panel Navigation:
+Ctrl + Shift + 1 = Focus to Editor\
+Ctrl + Shift + 2 = Focus to Console\
+Ctrl + Shift + 3 = Focus to Help\
+Ctrl + Shift + 4 = Focus to Plot\
+Ctrl + Shift + 5 = Focus to Variables/Environment\
+Ctrl + Shift + 6 = Focus to History
+
+
+### Other:
+Ctrl + Shift + Z = Comment/Uncomment Section\
+Ctrl + Enter = Run Code\
+Ctrl + R = Find and replace text\
+Ctrl + Shift + R = Generate Docstring (only usable within a function definition)\
+Ctrl + Alt + I = Activate Code Formatter
+
+
 
 ## Current Functions:
 add_time(): Increments inputed hour, minute, and second time (in military format) by desired seconds. All of the preceding functions work to calculate the exact time of day an event ends on based on its start time and the event's duration in seconds. Its inputs are, respectively, the starting hour (from 0 to 23), the starting minute, that starting second, and the amount of seconds that the event lasts. Its outputs are, respectively, the ending hour (from 1 to 12), the ending minute, the ending second, and whether or not it is AM or PM.
