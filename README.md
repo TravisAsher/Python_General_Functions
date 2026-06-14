@@ -19,6 +19,10 @@ Ctrl + R = Find and replace text\
 Ctrl + Shift + R = Generate Docstring (only usable within a function definition)\
 Ctrl + Alt + I = Activate Code Formatter
 
+### Not Keyboard Shortcuts:
+*In Spyder, insert a section by typing "# %%" followed by the title; similar to "Insert a section" in RStudio
+
+
 
 
 ## Current Functions:
