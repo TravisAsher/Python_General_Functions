@@ -15,6 +15,7 @@ Ctrl + Shift + 6 = Focus to History
 ### Other:
 Ctrl + Shift + Z = Comment/Uncomment Section\
 Ctrl + Enter = Run Code\
+Alt + Enter = Run Current Line and Advance\
 Ctrl + R = Find and replace text\
 Ctrl + Shift + R = Generate Docstring (only usable within a function definition)\
 Ctrl + Alt + I = Activate Code Formatter
